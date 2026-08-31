@@ -1,0 +1,15 @@
+# بيئة ومفاتيح
+.env
+.env.*
+
+# اعتمادات وأدوات
+node_modules/
+package-lock.json
+
+# سجلات ومؤقتات
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
